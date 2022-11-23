@@ -1,0 +1,82 @@
+[
+   {
+      "title": "gtx  1080ti",
+      "price": "10",
+      "thumbnail": "amd.jpg",
+      "stock": "5",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/4/2022",
+      "id": 1
+   },
+   {
+      "title": "amd rx 8500",
+      "price": "1000",
+      "thumbnail": "amd.jpg",
+      "stock": "500",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/4/2022",
+      "id": 2
+   },
+   {
+      "title": "amd rx 8500",
+      "price": "1000",
+      "thumbnail": "amd.jpg",
+      "stock": "500",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/4/2022",
+      "id": 3
+   },
+   {
+      "title": "amd rx 8500",
+      "price": "1000",
+      "thumbnail": "amd.jpg",
+      "stock": "500",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/4/2022",
+      "id": 6
+   },
+   {
+      "title": "amd rx 8500",
+      "price": "1000",
+      "thumbnail": "amd.jpg",
+      "stock": "500",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/4/2022",
+      "id": 7
+   },
+   {
+      "title": "gtx 580",
+      "price": "1000",
+      "thumbnail": "amd.jpg",
+      "stock": "500",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/4/2022",
+      "id": 8
+   },
+   {
+      "title": "amd rx 8500",
+      "price": "1000",
+      "thumbnail": "amd.jpg",
+      "stock": "500",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/4/2022",
+      "id": 9
+   },
+   {
+      "title": "gtx 4082 ti2",
+      "price": "1000",
+      "thumbnail": "amd.jpg",
+      "stock": "500",
+      "code": "gtr-r35",
+      "description": "placa de video",
+      "timestamp": "11/21/2022",
+      "id": 10
+   }
+]
